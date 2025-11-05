@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I am Sameen! A Geomatics w/Computing Minor student at the University of Waterloo interested in Python, Software Development, and Quantitative Development!
+
+- 🔭 I’m currently working on Django Blog
+- 🌱 I’m currently learning C++
+- 📫 How to reach me: sameencan@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love anime
+
 <!--
 **SameenSharif/SameenSharif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
