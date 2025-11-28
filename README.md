@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Sameen! A Geomatics w/Computing Minor student at the University of Waterloo interested in Python, Software Development, and Quantitative Development!
+I am Sameen! A Geomatics w/Computing Minor student at the University of Waterloo interested in Python and SWE/Quant Development!
 
 - 🔭 I’m currently working on a Full Stack Art Fetching Application
   - [Prototype Demo](https://youtu.be/MYl9gWxFazU)
