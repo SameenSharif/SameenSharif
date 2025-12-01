@@ -8,7 +8,6 @@ I am Sameen! A Geomatics w/Computing Minor student at the University of Waterloo
 - 📫 How to reach me: s9sharif@uwaterloo.ca, sameencan@gmail.com, [LinkedIn](https://www.linkedin.com/in/sameensharif/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love anime
-- 
 
 <!--
 **SameenSharif/SameenSharif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
