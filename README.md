@@ -2,12 +2,14 @@
 
 I am Sameen! A Geomatics w/Computing Minor student at the University of Waterloo interested in Python and SWE/Quant Development!
 
-- 🔭 I’m currently working on a Full Stack Art Fetching Application
-  - [Prototype Demo](https://youtu.be/MYl9gWxFazU)
+- 🔭 I’m currently learning Quant Finance
 - 🌱 I’m currently brushing up on Javascript for my Winter 2026 Internship
 - 📫 How to reach me: s9sharif@uwaterloo.ca, sameencan@gmail.com, [LinkedIn](https://www.linkedin.com/in/sameensharif/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love anime
+
+Projects:
+- [AniSwipe](https://www.youtube.com/watch?v=VbZ-TFvPljs)
 
 <!--
 **SameenSharif/SameenSharif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
