@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Sameen! A Geomatics w/Computing Minor student at the University of Waterloo interested in Python and SWE/Quant Development!
+I am Sameen! A Geomatics w/Computing Minor student at the University of Waterloo interested in Python, C++, and SWE/Quant Development!
 
 - 🔭 I’m currently learning Quant Finance
 - 🌱 I’m currently brushing up on Javascript for my Winter 2026 Internship
