@@ -3,7 +3,7 @@
 I am Sameen! A Geomatics w/Computing Minor student at the University of Waterloo interested in Python, C++, and SWE/Quant Development!
 
 - 🔭 I’m currently learning Quant Finance
-- 🌱 I’m currently brushing up on Javascript for my Winter 2026 Internship
+- 🌱 I’m currently brushing up on Javascript for my Fall 2026 Internship
 - 📫 How to reach me: s9sharif@uwaterloo.ca, sameencan@gmail.com, [LinkedIn](https://www.linkedin.com/in/sameensharif/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love anime
